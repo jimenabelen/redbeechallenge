@@ -5,6 +5,11 @@ import java.util.List;
 import java.util.ArrayList;
 import java.util.Collections;
 
+ /**
+   * Method that receives two lists and returns
+   * another list with de max of each index
+   *
+   */
 
 public class CompareArrayNumbers {
     public static void main(String[] args) { 
@@ -33,5 +38,5 @@ public class CompareArrayNumbers {
   
 } 
     
-
+// I got confused about creating this method. I resolved the way I knew how.
 
